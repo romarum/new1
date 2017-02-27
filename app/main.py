@@ -6,7 +6,7 @@ import os
 import sys
 
 SNEK_BUFFER = 3
-ID = 'snake2'
+ID = 'new1'
 SNAKE = 1
 WALL = 2
 FOOD = 3
